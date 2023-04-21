@@ -15,12 +15,11 @@ Spend more time on the first 10-20 to do better on the CAT curve and get harder 
 
 ## Get our Complete CISSP bundles:
 Kindly find all resourses for Domain 1 to 8 on the below repos:
-- [Domain 1](https://github.com/PacktPublishing/CISSP-Certification-Domain-1-Security-and-Risk-Management-Video-Boot-Camp-2022)
-- [Domain 2](https://github.com/PacktPublishing/CISSP-Certification-Domain-2-Asset-Security-Video-Boot-Camp-2022)
-- [Domain 3](https://github.com/PacktPublishing/CISSP-Certification-Domain-3-Security-Architecture-and-Engineering-Video-Boot-Camp-2022)
-- [Domain 4](https://github.com/PacktPublishing/CISSP-Certification-Domain-4-Communication-and-Network-Security-Video-Boot-Camp-2022)
-- [Domain 5](https://github.com/PacktPublishing/CISSP-Certification-Domain-5-Identity-and-Access-Management-IAM-Video-Boot-Camp-2022)
-- [Domain 6](https://github.com/PacktPublishing/CISSP-Certification-Domain-6-Security-Assessment-and-Testing-Video-Boot-Camp-2022)
-- [Domain 7](https://github.com/PacktPublishing/CISSP-Certification-Domain-7-Security-Operations-Video-Boot-Camp-2022)
-- [Domain 8](https://github.com/PacktPublishing/CISSP-Certification-Domain-8-Software-Development-Security-Video-Boot-Camp-2022)
-
+- [Domain 1](https://github.com/bagcheap/CISSP-Certification-Domain-1-Security-and-Risk-Management-Video-Boot-Camp-2022)
+- [Domain 2](https://github.com/bagcheap/CISSP-Certification-Domain-2-Asset-Security-Video-Boot-Camp-2022)
+- [Domain 3](https://github.com/bagcheap/CISSP-Certification-Domain-3-Security-Architecture-and-Engineering-Video-Boot-Camp-2022)
+- [Domain 4](https://github.com/bagcheap/CISSP-Certification-Domain-4-Communication-and-Network-Security-Video-Boot-Camp-2022)
+- [Domain 5](https://github.com/bagcheap/CISSP-Certification-Domain-5-Identity-and-Access-Management-IAM-Video-Boot-Camp-2022)
+- [Domain 6](https://github.com/bagcheap/CISSP-Certification-Domain-6-Security-Assessment-and-Testing-Video-Boot-Camp-2022)
+- [Domain 7](https://github.com/bagcheap/CISSP-Certification-Domain-7-Security-Operations-Video-Boot-Camp-2022)
+- [Domain 8](https://github.com/bagcheap/CISSP-Certification-Domain-8-Software-Development-Security-Video-Boot-Camp-2022)
